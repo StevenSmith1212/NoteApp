@@ -1,2 +1,7 @@
-# Winter22Projects
-Projects designed and completed during Winter Break 2022
+# NotesApp
+[name here] is a cross-platform applciation designed for digital note taking, and aestetic use. 
+
+## Requirements
+* Python 3.10.10
+
+## 
