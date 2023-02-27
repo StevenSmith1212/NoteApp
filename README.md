@@ -3,5 +3,6 @@
 
 ## Requirements
 * Python 3.10.10
+* PyQT
 
 ## 
